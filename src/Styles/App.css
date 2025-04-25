@@ -191,7 +191,7 @@ body {
 /* Book Appointment Button */
 .book-appointment-btn {
   padding: 10px 15px;
-  background-color: #4A90E2; /* Blue color */
+  background-color: #099bb9; /* Blue color */
   color: white;
   border: none;
   border-radius: 5px;
@@ -297,7 +297,6 @@ body {
   object-fit: cover;
   margin-right: 15px;
 }
-/* Mobile Responsiveness */
 @media (max-width: 768px) {
   .main {
     flex-direction: column;
@@ -311,5 +310,28 @@ body {
 
   .doctor-card {
     width: 100%;
+    margin: 10px 0;
+  }
+
+  .doctor-photo-wrapper {
+    width: 60px;
+    height: 60px;
+  }
+
+  .doctor-info {
+    padding-left: 10px;
+  }
+
+  .book-appointment-btn {
+    margin-top: 0;
+    align-self: center;
+  }
+
+  .filters-title {
+    font-size: 1.2em;
+  }
+
+  .search-bar input {
+    padding: 14px 14px 14px 30px; /* Adjust padding for smaller screens */
   }
 }
