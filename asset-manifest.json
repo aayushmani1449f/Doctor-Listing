@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Doctor-Listing/static/css/main.b6a47b6e.css",
+    "main.js": "/Doctor-Listing/static/js/main.8f1510f2.js",
+    "static/js/453.12bce54e.chunk.js": "/Doctor-Listing/static/js/453.12bce54e.chunk.js",
+    "index.html": "/Doctor-Listing/index.html",
+    "main.b6a47b6e.css.map": "/Doctor-Listing/static/css/main.b6a47b6e.css.map",
+    "main.8f1510f2.js.map": "/Doctor-Listing/static/js/main.8f1510f2.js.map",
+    "453.12bce54e.chunk.js.map": "/Doctor-Listing/static/js/453.12bce54e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a47b6e.css",
+    "static/js/main.8f1510f2.js"
+  ]
+}
